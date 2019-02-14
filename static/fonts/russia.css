@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Russia';
+	src: url('../fonts/russia.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/russia.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/russia.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/russia.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/russia.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/russia.svg#russia') format('svg'); /* Chrome < 4, Legacy iOS */
+}
